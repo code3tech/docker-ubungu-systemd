@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/Code3%20Tech-DevOps%20Tool-%231D8348)](https://hub.docker.com/repository/docker/code3tech/ubuntu)
 [![](https://img.shields.io/docker/cloud/automated/code3tech/ubuntu)](https://hub.docker.com/repository/docker/code3tech/ubuntu)
 [![](https://img.shields.io/docker/cloud/build/code3tech/ubuntu)](https://hub.docker.com/repository/docker/code3tech/ubuntu)
-[![](https://img.shields.io/docker/image-size/code3tech/ubuntu/stretch)](https://hub.docker.com/repository/docker/code3tech/ubuntu)
+[![](https://img.shields.io/docker/image-size/code3tech/ubuntu/latest)](https://hub.docker.com/repository/docker/code3tech/ubuntu)
 [![](https://img.shields.io/docker/pulls/code3tech/ubuntu)](https://hub.docker.com/repository/docker/code3tech/ubuntu)
 [![](https://img.shields.io/docker/stars/code3tech/ubuntu)](https://hub.docker.com/repository/docker/code3tech/ubuntu)
 [![](https://img.shields.io/github/issues/code3tech/docker-ubuntu-systemd)](https://hub.docker.com/repository/docker/code3tech/ubuntu)
@@ -16,11 +16,11 @@ Branches
 
 Para facilitar a manutenção e atualização desses containers decidimos adotar uma estratégia de multiplas branches que refletem as versions do sistema operacional alvo. Dessa forma cada branch reflete uma versão do SO, como demostrado na tabela abaixo:
 
-|Branch    |Ubuntu Version        |Docker image tag     |
-|----------|----------------------|---------------------|
-|main      |latest (bullseye/11)  |latest               |
-|buster    |buster                |buster               |
-|stretch   |stretch               |stretch              |
+|Branch |Ubuntu Version        |Docker image tag|
+|-------|----------------------|----------------|
+|master |focal fossa (2004)    |focal           |
+|bionic |bionic beaver (1804)  |bionic          |
+|xenial |xenial xerus (1604)   |xenial          |
 
 Pull strategy
 ------------
