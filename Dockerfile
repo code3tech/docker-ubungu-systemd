@@ -1,4 +1,4 @@
-FROM ubuntu:focal
+FROM ubuntu:20.10
 
 LABEL maintainer="Code3 Tech <it.code3@gmail.com>"
 
