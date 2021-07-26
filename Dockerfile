@@ -1,4 +1,4 @@
-FROM ubuntu:20.10
+FROM ubuntu:bionic
 
 LABEL maintainer="Code3 Tech <it.code3@gmail.com>"
 
