@@ -1,4 +1,4 @@
-FROM ubuntu:20.10
+FROM ubuntu:xenial
 
 LABEL maintainer="Code3 Tech <it.code3@gmail.com>"
 

@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/Code3%20Tech-DevOps%20Tool-%231D8348)](https://hub.docker.com/repository/docker/code3tech/ubuntu)
 [![](https://img.shields.io/docker/cloud/automated/code3tech/ubuntu)](https://hub.docker.com/repository/docker/code3tech/ubuntu)
 [![](https://img.shields.io/docker/cloud/build/code3tech/ubuntu)](https://hub.docker.com/repository/docker/code3tech/ubuntu)
-[![](https://img.shields.io/docker/image-size/code3tech/ubuntu/latest)](https://hub.docker.com/repository/docker/code3tech/ubuntu)
+[![](https://img.shields.io/docker/image-size/code3tech/ubuntu/xenial)](https://hub.docker.com/repository/docker/code3tech/ubuntu)
 [![](https://img.shields.io/docker/pulls/code3tech/ubuntu)](https://hub.docker.com/repository/docker/code3tech/ubuntu)
 [![](https://img.shields.io/docker/stars/code3tech/ubuntu)](https://hub.docker.com/repository/docker/code3tech/ubuntu)
 [![](https://img.shields.io/github/issues/code3tech/docker-ubuntu-systemd)](https://hub.docker.com/repository/docker/code3tech/ubuntu)
